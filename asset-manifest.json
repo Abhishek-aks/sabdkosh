@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sabdkosh/static/css/main.190cc388.css",
+    "main.js": "/sabdkosh/static/js/main.7d4f8b83.js",
+    "index.html": "/sabdkosh/index.html",
+    "main.190cc388.css.map": "/sabdkosh/static/css/main.190cc388.css.map",
+    "main.7d4f8b83.js.map": "/sabdkosh/static/js/main.7d4f8b83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.190cc388.css",
+    "static/js/main.7d4f8b83.js"
+  ]
+}
